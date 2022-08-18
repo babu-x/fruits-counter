@@ -1,0 +1,48 @@
+.page-container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: 600;
+  color: #000;
+}
+.count {
+  color: #ffd569;
+}
+.fruit {
+  display: flex;
+}
+.fruit-container {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  width: 200px;
+}
+.button {
+  color: #fff;
+  width: 100px;
+  height: 33px;
+  background-color: #007bff;
+  border-radius: 8px;
+  border-width: 0;
+  align-self: center;
+  margin-top: 15px;
+}
